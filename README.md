@@ -1,171 +1,101 @@
-<div align="center">
-  <!-- Snake Animation -->
-  <div style="margin-bottom: 20px;">
-    <img src="https://github.com/kll0l69/kll0l69/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="max-width: 100%;">
-  </div>
+<h1 align="center">
+  <span style="color:#FF5733">
+    <span class="glitch">HI | I 'am --A R S I N E K--</span>
+  </span>
+</h1>
 
-  <!-- Main Heading with Glitch Effect -->
-  <h1 class="glitch" style="font-size: 3em; margin: 0; color: #fff; text-shadow: 0 0 10px #0ff;">
-    <span aria-hidden="true">Arsenk</span>
-    Arsenk
-    <span aria-hidden="true">Arsenk</span>
-  </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FF5733&center=true&vCenter=true&lines=Software+Developer;Graphic+Designer;AI+Engineer;Tech+Innovator;IoT+Specialist">
+</p>
 
-<style>
-  .glitch {
-    position: relative;
-    animation: glitch 1s linear infinite;
-  }
-  .glitch span {
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
-  .glitch span:first-child {
-    color: #f0f;
-    animation: glitch-top 1s linear infinite;
-    clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 33%, 0 33%);
-  }
-  .glitch span:last-child {
-    color: #0ff;
-    animation: glitch-bottom 1.5s linear infinite;
-    clip-path: polygon(0 67%, 100% 67%, 100% 100%, 0 100%);
-    -webkit-clip-path: polygon(0 67%, 100% 67%, 100% 100%, 0 100%);
-  }
-  @keyframes glitch {
-    2%, 64% { transform: translate(2px, 0) skew(0deg); }
-    4%, 60% { transform: translate(-2px, 0) skew(0deg); }
-    62% { transform: translate(0, 0) skew(5deg); }
-  }
-  @keyframes glitch-top {
-    2%, 64% { transform: translate(2px, -2px); }
-    4%, 60% { transform: translate(-2px, 2px); }
-    62% { transform: translate(13px, -1px) skew(-13deg); }
-  }
-  @keyframes glitch-bottom {
-    2%, 64% { transform: translate(-2px, 0); }
-    4%, 60% { transform: translate(-2px, 0); }
-    62% { transform: translate(-22px, 5px) skew(21deg); }
-  }
-</style>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhZWw5bXg4Z3ZrdG4ya2xkbmo3ajE1YzNmMnU0bmV3YmRoa21pZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLJxQtX8Hs7XytaoyX/giphy.gif" width="80%">
+</p>
 
 ---
 
-## About Me
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; color: #fff; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);">
-  <p style="font-size: 1.2em; line-height: 1.6;">
-    Hey there! I’m <strong>Mohammed Hussien</strong>, a passionate student and supervisor at <strong>Borg El Arab Technological University</strong> majoring in IT. I’m deeply invested in technology, programming, artificial intelligence, and design. My journey is all about turning ideas into reality through code and creativity.
-  </p>
-</div>
+## 🚀 **Who Am I?**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%">
+</p>
+
+-  **Name:** **Mohammed Hussein | ARSINEK**
+-  **University:** **Borg El-Arab Technological University**
+-  **Major:** **Software Engineering & AI**
+-  **Location:** **Egypt 🇪🇬**
+-  **Age:** **19 Y-O**
 
 ---
 
-## Skills
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; color: #fff; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5); margin: 20px 0;">
-  <p style="font-size: 1.1em;">As a <strong>Full-Stack Developer & AI Engineer</strong>, here’s what I bring to the table:</p>
-  <ul style="list-style: none; padding: 0;">
-    <li>HTML/CSS/JavaScript
-      <div style="background: #333; height: 10px; border-radius: 5px; overflow: hidden;">
-        <div style="background: #0ff; width: 90%; height: 100%; animation: progress 2s ease-in-out infinite;"></div>
-      </div>
-    </li>
-    <li>Python
-      <div style="background: #333; height: 10px; border-radius: 5px; overflow: hidden;">
-        <div style="background: #0ff; width: 85%; height: 100%; animation: progress 2s ease-in-out infinite;"></div>
-      </div>
-    </li>
-    <li>AI & Machine Learning
-      <div style="background: #333; height: 10px; border-radius: 5px; overflow: hidden;">
-        <div style="background: #0ff; width: 80%; height: 100%; animation: progress 2s ease-in-out infinite;"></div>
-      </div>
-    </li>
-    <li>Node.js & React
-      <div style="background: #333; height: 10px; border-radius: 5px; overflow: hidden;">
-        <div style="background: #0ff; width: 75%; height: 100%; animation: progress 2s ease-in-out infinite;"></div>
-      </div>
-    </li>
-  </ul>
-</div>
-
-<style>
-  @keyframes progress {
-    0% { width: 0; }
-    50% { width: inherit; }
-    100% { width: 0; }
-  }
-</style>
+##  **GitHub Highlights**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kl0l69&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kl0l69&theme=solarized_dark">
+</p>
 
 ---
 
-## Projects
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; color: #fff; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5); margin: 20px 0;">
-  <h3 style="color: #0ff;">Current Project</h3>
-  <p style="font-size: 1.1em;">
-    <strong>Vibrating Bed for Paralysis & Thrombosis Patients</strong><br>
-    An innovative solution designed to improve the quality of life for patients with mobility issues through controlled vibrations and smart technology integration.
-  </p>
-</div>
+##  **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,arduino,figma,photoshop,vscode,ai,git,github,linux&theme=dark">
+</p>
 
 ---
 
-## Contact Me
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://github.com/kll0l69" class="social-icon github" style="display: inline-block; margin: 0 10px;"></a>
-  <a href="https://twitter.com/arsenk" class="social-icon twitter" style="display: inline-block; margin: 0 10px;"></a>
-  <a href="https://linkedin.com/in/arsenk" class="social-icon linkedin" style="display: inline-block; margin: 0 10px;"></a>
-</div>
 
-<style>
-  .social-icon {
-    width: 40px;
-    height: 40px;
-    position: relative;
-    transition: transform 0.3s ease;
-  }
-  .social-icon:hover { transform: scale(1.2); }
-  .github:before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: #fff;
-    clip-path: polygon(20% 0, 80% 0, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0 80%, 0 20%);
-    -webkit-clip-path: polygon(20% 0, 80% 0, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0 80%, 0 20%);
-  }
-  .twitter:before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: #1DA1F2;
-    clip-path: polygon(50% 0, 80% 20%, 100% 50%, 80% 80%, 50% 100%, 20% 80%, 0 50%, 20% 20%);
-    -webkit-clip-path: polygon(50% 0, 80% 20%, 100% 50%, 80% 80%, 50% 100%, 20% 80%, 0 50%, 20% 20%);
-  }
-  .linkedin:before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: #0077B5;
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-  }
-</style>
+##  **Great my --bro-- <br> keep going**
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ---
 
-<div style="text-align: center;">
-  <p style="font-size: 1.2em; color: #fff; animation: thanks 3s infinite;">
-    Thanks for visiting my profile! Let’s build something amazing together!
-  </p>
-</div>
+## 💡 **Why Work With Me?**
+🚀 **Expert in Software Development, AI & ML**  
+🎨 **Skilled in UI/UX, Graphic Design, & Branding**  
+🛠 **Problem-Solver & Creative Thinker**  
+💡 **Innovative, Adaptive, & Passionate About Tech**  
+📊 **Experienced in Data Analysis & Automation**  
 
-<style>
-  @keyframes thanks {
-    0% { color: #0ff; }
-    50% { color: #f0f; }
-    100% { color: #0ff; }
-  }
-</style>
+---
+
+## 📬 **Connect With Me**
+<p align="center">
+  <a href="https://github.com/kl0l69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/nq703"><img src="https://img.shields.io/badge/Facebook-1b74e4?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:ayrn194@gmail.com"><img src="https://img.shields.io/badge/E‑mail-D14836?style=for-the-badge&logo=GMail&logoColor=white"></a>
+  <a href="https://t.me/nq703"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://instagram.com/kl0l69"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/+201141345223"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
+
+---
+
+## 📊 **Profile Insights & Extras**
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kl0l69&theme=radical&margin-w=15&margin-h=15">
+</p>
+
+---
+
+## ❤️ **Thank u For Visiting!**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kl0l69&label=Profile%20Views&color=red&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@kl0l69?theme=rule34">
+</p>
+
+
+
+## 😥 **I didn't want to say it but <br> goodbye!**
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThsZTM5NTMxNG5xaGl6bG01M2w1MHhwcnpsa3Uyb2N5ZzV0NGo1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaBU6pgv0OsPHz2yxy/giphy.gif" width="80%">
+</p>
