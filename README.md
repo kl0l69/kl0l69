@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="color:#FF5733">
-    <span class="glitch">HI | I 'am --A R S I N E K--</span>
+    <span class="glitch">HI Iam --A R S I N E K--</span>
   </span>
 </h1>
 
@@ -23,7 +23,7 @@
 -  **University:** **Borg El-Arab Technological University**
 -  **Major:** **Software Engineering & AI**
 -  **Location:** **Egypt 🇪🇬**
--  **Age:** **19 Y-O**
+-  **Age:** **21 Y-O**
 
 ---
 
@@ -51,16 +51,16 @@
 
 ---
 
-## 💡 **Why Work With Me?**
-🚀 **Expert in Software Development, AI & ML**  
-🎨 **Skilled in UI/UX, Graphic Design, & Branding**  
-🛠 **Problem-Solver & Creative Thinker**  
-💡 **Innovative, Adaptive, & Passionate About Tech**  
-📊 **Experienced in Data Analysis & Automation**  
+##            **Why Work With Me?**
+ **Expert in Software Development, AI & ML**  
+ **Skilled in UI/UX, Graphic Design, & Branding**  
+ **Problem-Solver & Creative Thinker**  
+ **Innovative, Adaptive, & Passionate About Tech**  
+ **Experienced in Data Analysis & Automation**  
 
 ---
 
-## 📬 **Connect With Me**
+##  **Connect With Me**
 <p align="center">
   <a href="https://github.com/kl0l69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/nq703"><img src="https://img.shields.io/badge/Facebook-1b74e4?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 **Profile Insights & Extras**
+##  **Profile Insights & Extras**
 
 
 <p align="center">
