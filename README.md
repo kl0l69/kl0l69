@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=FF4500&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineer;Graphic+Designer;Tech+Innovator;IoT+Specialist">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF4500&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineer;Graphic+Designer;Tech+Innovator;IoT+Specialist">
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1qamUweDJqcDN3b2EyN3pqMmg1ZWwwZ2lvZ25kZTUzc3gwZzUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="85%" alt="Coding GIF">
+  <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="85%" alt="Coding GIF">
 </p>
 
 ---
 
 ## About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3p6MHpncmN6ZWg3dWY2azMyYWh5ejF5cnRwbDB2bmo0b3YxN3o3MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60%" alt="Developer Thinking">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="55%" alt="Developer Thinking">
 </p>
 
 **Name:** Mohammed Hussein (ARSINEK)  
@@ -23,8 +23,23 @@
 **Location:** Egypt  
 **Age:** 21  
 
-I’m a passionate developer who blends creativity and logic to build intelligent, visually engaging, and efficient digital solutions.  
-Focused on AI, Software Development, and UX/UI Design — always learning, building, and innovating.
+I’m a creative-minded developer who combines logic, design, and innovation to build intelligent and visually refined digital products.  
+Focused on Artificial Intelligence, Software Engineering, and UX/UI — always learning, building, and pushing boundaries.
+
+---
+
+## Core Skills
+- Software Development & System Architecture  
+- Artificial Intelligence & Machine Learning  
+- UX/UI Design & Front-End Development  
+- Data Analysis & Automation Systems  
+- IoT & Embedded Solutions  
+
+---
+
+## My Vision
+I believe in merging technology and creativity to design impactful digital experiences that make life smarter, simpler, and more inspiring.  
+Every project I work on is driven by curiosity, logic, and a desire for excellence.
 
 ---
 
@@ -43,17 +58,17 @@ Focused on AI, Software Development, and UX/UI Design — always learning, build
 
 ## Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,arduino,react,figma,photoshop,vscode,ai,git,github,linux&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,arduino,react,nodejs,figma,photoshop,vscode,ai,git,github,linux,powershell&theme=dark" alt="Tech Stack">
 </p>
 
 ---
 
 ## Why Work With Me
-- Deep experience in Software Engineering, AI & ML  
-- Skilled in UI/UX, Graphic Design, and Branding  
-- Analytical Problem Solver and Creative Thinker  
-- Adaptive, Fast Learner, and Passionate About Technology  
-- Experienced in Data Analysis and Automation  
+- Strong foundation in **AI, Software Engineering, and System Design**  
+- Experience in **Graphic Design, UI/UX, and Branding**  
+- Analytical problem solver with creative and structured thinking  
+- Adaptable, fast learner, and passionate about technological progress  
+- Skilled in integrating **Automation, AI Models, and Smart Tools**
 
 ---
 
@@ -63,7 +78,7 @@ Focused on AI, Software Development, and UX/UI Design — always learning, build
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 </p>
 
 ---
@@ -72,7 +87,7 @@ Focused on AI, Software Development, and UX/UI Design — always learning, build
 <p align="center">
   <a href="https://github.com/kl0l69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/nq703"><img src="https://img.shields.io/badge/Facebook-1b74e4?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="mailto:ayrn194@gmail.com"><img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ayrn194@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/nq703"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://instagram.com/kl0l69"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://wa.me/+201141345223"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -91,11 +106,11 @@ Focused on AI, Software Development, and UX/UI Design — always learning, build
 
 ---
 
-## Farewell Message
+## Farewell
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Jwcmt0dnoyOG04NHdvdXg0OWlpYzAwb2R2aXpzanU2ODh2d2loYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" width="75%" alt="Goodbye Animation">
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="70%" alt="Goodbye Animation">
 </p>
 
 <p align="center" style="font-style:italic;">
-  I didn’t want to say it... but goodbye.
+  Simplicity in design. Intelligence in code. Passion in every project.
 </p>
