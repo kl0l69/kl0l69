@@ -17,18 +17,18 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="55%" alt="Developer Thinking">
 </p>
 
-**Name:** Mohammed Hussein (ARSINEK)  
-**University:** Borg El-Arab Technological University  
-**Major:** Software Engineering & Artificial Intelligence  
-**Location:** Egypt  
-**Age:** 21  
+- **Name:** Mohammed Hussein (ARSINEK)  
+- **University:** Borg El-Arab Technological University  
+- **Major:** Software Engineering & Artificial Intelligence  
+- **Location:** Egypt  
+- **Age:** 21  
 
-I’m a creative-minded developer who combines logic, design, and innovation to build intelligent and visually refined digital products.  
+- I’m a creative-minded developer who combines logic, design, and innovation to build intelligent and visually refined digital products.  
 Focused on Artificial Intelligence, Software Engineering, and UX/UI — always learning, building, and pushing boundaries.
 
 ---
 
-## Core Skills
+## -  Core Skills
 - Software Development & System Architecture  
 - Artificial Intelligence & Machine Learning  
 - UX/UI Design & Front-End Development  
