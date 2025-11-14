@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FF4500&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineer;Graphic+Designer;Tech+Innovator;IoT+Specialist">
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="85%" alt="Coding GIF">
-</p>
 
 ---
 
@@ -21,8 +18,8 @@
 - **University:** Borg El-Arab Technological University  
 - **Major:** Software Engineering & Artificial Intelligence  
 - **Location:** Egypt  
-- **Age:** 21  
-
+- **Age:** 20
+- <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine" style="max-width: 80%;">
 - I’m a creative-minded developer who combines logic, design, and innovation to build intelligent and visually refined digital products.  
 Focused on Artificial Intelligence, Software Engineering, and UX/UI — always learning, building, and pushing boundaries.
 
