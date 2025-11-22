@@ -1,5 +1,6 @@
 <h1 align="center" style="font-weight:bold;">
-  <span style="color:#FF4500;">HI, I AM <span style="letter-spacing:3px;">A R S I N E K</span></span>
+  <span style="color:#FF4500;">HI, I AM <span style="letter-spacing:3px;">A R S I N E K  <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "70" height= "70">  
+  </span></span>
 </h1>
 
 <p align="center">
@@ -14,11 +15,11 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="55%" alt="Developer Thinking">
 </p>
 
-- **Name:** Mohammed Hussein (ARSINEK)  
-- **University:** Borg El-Arab Technological University  
+- **Name:** Mohammed Hussein  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />
+- **University:** Borg El-Arab Technological University  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 - **Major:** Software Engineering & Artificial Intelligence  
 - **Location:** Egypt  
-- **Age:** 20
+- **Age:** 20 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dotted%20Line%20Face.png" alt="Dotted Line Face" width="25" height="25" />
 - <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="StandWithPalestine" style="max-width: 80%;">
 - I’m a creative-minded developer who combines logic, design, and innovation to build intelligent and visually refined digital products.  
 Focused on Artificial Intelligence, Software Engineering, and UX/UI — always learning, building, and pushing boundaries.
